@@ -23,6 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 - [Apollo](https://www.apollo.io/)
+- [Vime](https://vimejs.com/)
 
 ## ℹ Como usar
 
