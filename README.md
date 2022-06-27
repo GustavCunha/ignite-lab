@@ -44,7 +44,7 @@ $ npm run dev ou yarn dev
 
 ## 💻 Projeto
 
-O Event Platform é uma plataforma de eventos, que acontecem durante o período de uma semana ou mais. É possíel assistir ao vivo ou as gravações do evento.
+O Event Platform é uma plataforma de eventos, que acontecem durante o período de uma semana ou mais. É possível assistir ao vivo ou as gravações do evento.
 Layout do Projeto - [Figma](https://www.figma.com/community/file/1120711251998877938)
 
 ## 📜 Sobre
